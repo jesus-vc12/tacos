@@ -238,7 +238,6 @@
     </div>
  </div>
  </footer>
- <script src="carrito.js"></script>
  
  
 </body>
